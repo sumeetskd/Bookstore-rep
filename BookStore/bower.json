@@ -1,0 +1,21 @@
+{
+  "name": "bookstore",
+  "description": "Online BookStore",
+  "main": "index.js",
+  "author": "Sumeet Kumar Das",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.1.16"
+  }
+}
